@@ -1,2 +1,4 @@
 # youtube-downloader
-Algoritmo para fazer download de vídeos hospedados no You Tube.
+Algorithm for downloading videos hosted on YouTube.
+
+
